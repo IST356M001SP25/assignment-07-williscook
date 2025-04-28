@@ -22,4 +22,4 @@ Examples:
 **Best Reflection** "I learned when to use while vs for loops. While loops are for sentiel-controlled values (waiting for a condition to occur), vs for loops are for iterating over collections of fixed values."
 
 `--- Reflection Below This Line ---`
-
+This assignment has helped understand how to scrap the words that we need and convert it to a JSON File. This will be useful when we try to extract or look at the particular word that we need, and ensure each line can be repeated for the same procedure.
